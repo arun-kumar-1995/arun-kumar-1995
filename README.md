@@ -6,7 +6,8 @@
   <!-- Introduction -->
   <div>
   <p style="font-size:12px;">
-    I am a passionate backend developer with over a year of experience in building robust and scalable server-side applications. My expertise lies in creating efficient APIs, managing databases, and optimizing server performance to ensure smooth and reliable functionality.
+    Skilled Node.js backend developer with over a year of experience, specialized in designing, building, and maintaining robust, scalable, and efficient server-side applications.
+   Seeking to leverage experience into a backend development role, contributing to innovative projects while advancing expertise in backend technologies 
   </p>
   </div>
 
@@ -17,10 +18,10 @@
 <img src="https://img.shields.io/badge/Portfolio-black" alt="Portfolio Badge" style="margin-bottom: 5px;" align="center">
 </a>
 <a href="https://www.linkedin.com/in/dev-arun" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" align="center" />
+<img src="https://img.shields.io/badge/-devarun-0a66c2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" align="center" />
 </a>
-<a href="mailto:dev.arunpro@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge" style="margin-bottom: 5px;" align="center">
+<a href="mailto:dev.arunpro@gmail.com" title="dev.arunpro@gmail.com">
+  <img src="https://img.shields.io/badge/-dev.arunpro-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge" style="margin-bottom: 5px;" align="center">
 </a>
 <a href="https://codepen.io/yourusername" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen&logoColor=white" alt="CodePen Badge" style="margin-bottom: 5px;" align="center">
@@ -30,48 +31,129 @@
 </a>
 </p>
 </div>
-<p align="center" style="max-width: 100%;">"Each line of code brings us one step closer to transforming ideas into reality."</p>
+
+<!-- Inspirational Quote -->
+<p align="center" style="max-width: 100%; margin: 16px 0;">
+  <i>❝ Each line of code brings us one step closer to transforming ideas into reality. ❞</i>
+</p>
+
+<!-- More About Me -->
+<h4>How i define myself...literally</h4>
+
+ ```javascript
+class Devarun {
+    #age;
+    #name;
+    #work;
+    #hobbies;
+    #education;
+    #principles;
+    #focus;
+    #skills;
+    #codingStrategy;
+
+    constructor() {
+        this.initialize();
+    }
+
+    initialize() {
+       this.#age=27;
+       this.#name: "Dev arun";
+       this.#work: ["Guruji Astro"];
+       this.#hobbies: ["Thermacol crafting" ,""];
+       this.#education: ["B-Tech , Mechanical (2017)", "Score:7.4"];
+    }
+
+}
+
+```
+
+<!-- More About Me -->
+<img align="right" height="250" width="375" alt="coder gif" src="https://raw.githubusercontent.com/arun-kumar-1995/arun-kumar-1995/main/assets/coder.gif" />
+<h4>🧐 More About Me:</h4>
+
+- 🔭 &nbsp; I’m currently working at **Guruji Astro**
+- 🤝 &nbsp; I'm looking for a **Backend Developer** to join the team
+- 🌱 &nbsp; I’m currently learning about **Microservices** and **Design Systems**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/arun-kumar-1995?tab=repositories)
+- 💬 &nbsp; Ask me anything tech-related, I am happy to help
+
 
 <!--  My expertises -->
 <h4>💡Stuff I'm really good at </h4>
-<p align="center">  
+ <p align="center">  
   <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/> 
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/>
-  
-<!-- JavaScript -->
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
-  
   <!-- Express.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="32" height="32"/>
-  
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32"/>
-  
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32"/>
+  <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="32" height="32"/>
 </p>
 
 
 
-<!--  more about me -->
-<img align="right" height="250" width="375" alt="coder gif" src="https://raw.githubusercontent.com/arun-kumar-1995/arun-kumar-1995/main/assets/coder.gif" />
-<h4>🧐 More About me :</h4>
-
-- 🔭 &nbsp; I’m currently working on **Guruji Astro**
-- 🤝 &nbsp; I'm looking for a **Backend Developer** for the teamwork
-- 🌱 &nbsp; I’m currently learning **MICROSERVICE** and **DESIGN SYSTEM**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/arun-kumar-1995?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech-related, I am happy to help
-
-
 <!--- technical skills -->
-<h4>💻 Technical  Skills : </h4>
+<h4>🔨 Languages and Tools:</h4>
+<div style="margin-top:16px;">
+ <p>
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32" style="margin-right: 10px;"/>
+ 
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" style="margin-right: 10px;"/>
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32" style="margin-right: 10px;"/>
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="32" height="32" style="margin-right: 10px;"/>
+  <!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="32" height="32" style="margin-right: 10px;"/>
+<!-- Puppeteer -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" alt="Puppeteer" width="32" height="32" style="margin-right: 10px;"/>
+ <!-- Sass -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="32" height="32" style="margin-right: 10px;"/>
+ <!-- Express.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="32" height="32" style="margin-right: 10px;"/>
+  <!-- Jest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="32" height="32" style="margin-right: 10px;"/>
+      
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" style="margin-right: 10px;"/>
+    <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32" style="margin-right: 10px;"/>
+  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32" style="margin-right: 10px;"/>
+  
+<!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" style="margin-right: 10px;"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" style="margin-right: 10px;"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32" style="margin-right: 10px;"/>
+   <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="32" height="32" style="margin-right: 10px;"/>     
+  <!-- GraphQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="32" height="32" style="margin-right: 10px;"/>
+  <!-- Firebase -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" height="32" style="margin-right: 10px;"/>
+  <!-- MySQL -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" style="margin-right: 10px;"/>
+   <!-- Redux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="32" height="32" style="margin-right: 10px;"/>
 
-<!--- technical skills -->
-<h4>💻 Tools : </h4>
+ 
+ </p>
+</div>
 
 <!--- github project stats -->
 <h4>🖥 Projects and Dev Stuffs: </h4>
@@ -87,4 +169,3 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-kumar-1995&hide_border=true&theme=react" />
 </details>
-
