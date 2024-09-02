@@ -14,7 +14,7 @@
   
   <!-- Social and Portfolio Links -->
 <p>
-<a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">
+<a href="https://arun-kumar-1995.github.io/arun-kumar-1995/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-black" alt="Portfolio Badge" style="margin-bottom: 5px;" align="center">
 </a>
 <a href="https://www.linkedin.com/in/dev-arun" target="_blank" rel="noopener noreferrer">
