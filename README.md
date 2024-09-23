@@ -54,13 +54,19 @@ class Devarun {
 
     constructor() {
         this.initialize();
+        this.#focus= "Backend Development";
+        this.#skills = ["Javascript", "HTML", "CSS", "Node JS", "MongoDB"," Express JS","Redis", "Sql" , "Socket.io"];
+        this.#codingStrategy = {
+                   scalableSolutions: true,
+                   dryPrinciple: true;
+               }
     }
 
     initialize() {
-       this.#age=27;
+       this.#age=28;
        this.#name: "Dev arun";
        this.#work: ["Guruji Astro"];
-       this.#hobbies: ["Thermacol crafting" ,""];
+       this.#hobbies: ["Thermacol crafting" ,"Playing football"];
        this.#education: ["B-Tech , Mechanical (2017)", "Score:7.4"];
     }
 
