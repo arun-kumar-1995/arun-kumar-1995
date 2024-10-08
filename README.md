@@ -7,12 +7,11 @@
   <div>
    <div align="center">
     <p>
-     Software Developer | Front End Developer(React JS) | Backend Specialist (Nodejs)  | Express JS | Redis | MongoDB |  SQL | MVC | JavaScript | 
+     "Software Developer | Front-End Specialist (React JS) | Backend Expert (Node.js) | Express.js | Redis | Socket.IO | MongoDB | SQL | MVC | JavaScript | CSS | HTML"
     </p>
    </div>
   <p style="font-size:12px;">
-A passionate Software developer , proficient in building scalable , robust and efficient application that can solved real world problems.
-Looking for and environment where i can grow , develop and contribute my experience with my working team members  
+ A passionate and skilled software developer focused on creating reliable, efficient, and scalable applications that solve real-world problems. Proficient in both front-end and back-end technologies, with expertise in creating scalable, high-performance solutions. Seeking a dynamic , friendly and collaborative environment where I can grow, work together on exciting projects, and contribute to the team's success
   </p>
   </div>
 
