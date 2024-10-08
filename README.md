@@ -5,9 +5,14 @@
   
   <!-- Introduction -->
   <div>
+   <div align="center">
+    <p>
+     Software Developer | Front End Developer(React JS) | Backend Specialist (Nodejs)  | Express JS | Redis | MongoDB |  SQL | MVC | JavaScript | 
+    </p>
+   </div>
   <p style="font-size:12px;">
-    Skilled Node.js backend developer with over a year of experience, specialized in designing, building, and maintaining robust, scalable, and efficient server-side applications.
-   Seeking to leverage experience into a backend development role, contributing to innovative projects while advancing expertise in backend technologies 
+A passionate Software developer , proficient in building scalable , robust and efficient application that can solved real world problems.
+Looking for and environment where i can grow , develop and contribute my experience with my working team members  
   </p>
   </div>
 
