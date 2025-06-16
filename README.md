@@ -69,7 +69,7 @@ class Devarun {
     initialize() {
        this.#age=28;
        this.#name: "Dev arun";
-       this.#work: ["Guruji Astro"];
+       this.#work: ["Guruji Astro" , "Advantage AI Engineering"];
        this.#hobbies: ["Thermacol crafting" ,"Playing football"];
        this.#education: ["B-Tech , Mechanical (2017)", "Score:7.4"];
     }
