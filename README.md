@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/dev-arun" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-devarun-0a66c2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" align="center" />
 </a>
-<a href="mailto:dev.arunpro@gmail.com" title="arun.devpro@gmail.com">
+<a href="mailto:arun.devpro@gmail.com" title="arun.devpro@gmail.com">
   <img src="https://img.shields.io/badge/-dev.arunpro-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge" style="margin-bottom: 5px;" align="center">
 </a>
 <a href="https://codepen.io/yourusername" target="_blank" rel="noopener noreferrer">
